@@ -1,7 +1,6 @@
 from Colorize.colorize import Colorizer
 from PIL import Image
 import argparse
-import os
 
 
 def setup_parser() -> argparse.Namespace:

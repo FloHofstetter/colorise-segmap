@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from Colorize.colorize import Colorizer
 from PIL import Image
 import argparse
